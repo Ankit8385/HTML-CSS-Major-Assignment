@@ -293,7 +293,7 @@ p {
 /* Benefits Section */
 .benifits {
   display: flex;
-  background-image: url("./assests//Container.png");
+  background-image: url("./assests/Container.png");
   border-radius: 1.25rem;
   margin: 5rem;
   width: 100%;
